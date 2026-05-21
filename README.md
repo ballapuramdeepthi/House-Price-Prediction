@@ -4,6 +4,7 @@ A modern AI-powered web application built with Python, Streamlit, and Machine Le
 This project provides an interactive dashboard with beautiful UI components, property analytics, and real-time price prediction using a trained ML model.
 
 🚀 Features
+
 ✅ AI-based House Price Prediction
 
 ✅ Beautiful Modern Streamlit UI
@@ -23,6 +24,7 @@ This project provides an interactive dashboard with beautiful UI components, pro
 ✅ Fast Prediction Engine
 
 🧠 Machine Learning Model
+
 The application uses a trained Machine Learning regression model stored as:
 
 house_price_model.pkl
@@ -57,6 +59,7 @@ Nearby Property Areas
 House Age
 
 🛠️ Technologies Used
+
 Technology	Purpose
 Python	Backend Logic
 Streamlit	Web Application
@@ -65,11 +68,14 @@ Pandas	Data Handling
 Matplotlib	Visualization
 Pickle	Model Loading
 Machine Learning	Price Prediction
+
+
 📂 Project Structure
 ├── app.py
 ├── house_price_model.pkl
 ├── requirements.txt
 └── README.md
+
 ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/house-price-prediction.git
@@ -98,6 +104,7 @@ Location Rating
 Property Analytics Chart
 
 📊 Dashboard Preview
+
 The application includes:
 
 📍 Location Intelligence
@@ -121,6 +128,7 @@ Grade	8
 Waterfront	No
 Renovated	Yes
 🔥 Future Improvements
+
 Add Google Maps Integration
 
 Add Real-Time Market Trends
@@ -134,6 +142,7 @@ Add User Authentication
 Improve Model Accuracy with Advanced Algorithms
 
 📦 Requirements
+
 Example dependencies:
 
 streamlit
@@ -151,29 +160,3 @@ Streamlit
 Machine Learning
 
 Data Analytics
-
-📜 License
-This project is licensed under the MIT License.
-
-⭐ Support
-If you like this project:
-
-⭐ Star the repository
-
-🍴 Fork the project
-
-🛠️ Contribute improvements
-
-🏡 AI-Powered Real Estate Intelligence
-Predict smarter. Invest better. 🚀
-
-c
-
-We use cookies
-
-Cookies help this site function, measure usage, and support marketing. Manage your cookie preferences anytime. Learn more about our cookie policy.
-
-
-Reject non-essential
-
-Accept all

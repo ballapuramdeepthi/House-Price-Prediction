@@ -1,4 +1,5 @@
 🏠 House Price Prediction using Machine Learning
+
 A modern AI-powered web application built with Python, Streamlit, and Machine Learning to predict house prices based on property features, location intelligence, and neighborhood analytics.
 
 This project provides an interactive dashboard with beautiful UI components, property analytics, and real-time price prediction using a trained ML model.
@@ -28,6 +29,7 @@ This project provides an interactive dashboard with beautiful UI components, pro
 The application uses a trained Machine Learning regression model stored as:
 
 house_price_model.pkl
+
 The model predicts house prices based on features such as:
 
 Bedrooms
@@ -75,6 +77,7 @@ Machine Learning	Price Prediction
 ├── house_price_model.pkl
 ├── requirements.txt
 └── README.md
+
 
 ⚙️ Installation
 1️⃣ Clone the Repository
@@ -127,6 +130,8 @@ Floors	2
 Grade	8
 Waterfront	No
 Renovated	Yes
+
+
 🔥 Future Improvements
 
 Add Google Maps Integration

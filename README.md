@@ -72,28 +72,6 @@ Pickle	Model Loading
 Machine Learning	Price Prediction
 
 
-📂 Project Structure
-├── app.py
-├── house_price_model.pkl
-├── requirements.txt
-└── README.md
-
-
-⚙️ Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run the Application
-streamlit run app.py
-🎯 How It Works
-User enters property details
-
-Application preprocesses inputs
-
-ML model predicts estimated house price
-
 Dashboard displays:
 
 Predicted Property Value
@@ -130,21 +108,6 @@ Floors	2
 Grade	8
 Waterfront	No
 Renovated	Yes
-
-
-🔥 Future Improvements
-
-Add Google Maps Integration
-
-Add Real-Time Market Trends
-
-Add Price Comparison Analytics
-
-Deploy on Streamlit Cloud
-
-Add User Authentication
-
-Improve Model Accuracy with Advanced Algorithms
 
 📦 Requirements
 
